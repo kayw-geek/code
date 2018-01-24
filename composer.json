@@ -1,0 +1,19 @@
+{
+    "name": "weikaiii/code",
+    "description": "make code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weikaiii",
+            "email": "weikaiii@sina.cn"
+        }
+    ],
+
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Weikaiii\\Code\\":"src/"
+        }
+    }
+}
